@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Nebula",
+    "img": "/scroll-images/S-0.jpg"
+  },
+  {
+    "name": "Solaris",
+    "img": "/scroll-images/S-1.jpg"
+  },
+  {
+    "name": "Eclipse",
+    "img": "/scroll-images/S-2.jpg"
+  },
+  {
+    "name": "Nova",
+    "img": "/scroll-images/S-3.jpg"
+  },
+  {
+    "name": "Cosmos",
+    "img": "/scroll-images/S-4.jpg"
+  },
+  {
+    "name": "Astrum",
+    "img": "/scroll-images/S-5.jpg"
+  },
+  {
+    "name": "Lumina",
+    "img": "/scroll-images/S-6.jpg"
+  },
+  {
+    "name": "Vortex",
+    "img": "/scroll-images/S-7.jpg"
+  },
+  {
+    "name": "Quasar",
+    "img": "/scroll-images/S-8.jpg"
+  },
+  {
+    "name": "Pulsar",
+    "img": "/scroll-images/S-9.jpg"
+  }
+]
