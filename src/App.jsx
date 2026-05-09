@@ -210,11 +210,7 @@ const App = () => {
         </div>
       </section>
 
-      {/* <section id='section3' className="outro">
-        <div className='content'>
-          <h1>The journey continues...</h1>
-        </div>
-      </section> */}
+
     </div>
   );
 };
